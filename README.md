@@ -5,6 +5,7 @@ Projetos do grupo participando da Hacktoberfest 2018 (N⁰5)
 - [EDPlugins](https://github.com/SynkoDevelopers/EDPlugins/issues)
 - [Send2KindleBot](https://github.com/GabrielRF/Send2KindleBot/issues)
 - [RastreioBot](https://github.com/GabrielRF/RastreioBot/issues)
+- [Talkshow](https://github.com/rochacbruno/talkshow/tree/extended)
 
 -----
 
@@ -32,4 +33,4 @@ Projetos do grupo participando da Hacktoberfest 2018 (N⁰5)
 
 - Depois crie um PR (Pull Request).
 
-NOTA: Tenha no minimo um issue em aberto.
+NOTA: Tenha no mínimo um issue em aberto.
