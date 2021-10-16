@@ -1,4 +1,4 @@
-# Hacktoberfest
+# Hacktoberfest 2021
 Projetos do grupo participando da Hacktoberfest 2018 (N⁰5)
 
 # Lista.
